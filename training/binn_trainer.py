@@ -9,8 +9,8 @@ from models.binn import BINN, BINNLoss
 
 
 CSV_PATH = "../data/processed/tumor_volumes_clean.csv"
-MODEL_PATH = "outputs/model.pt"
-LOG_PATH = "outputs/training_log.csv"
+MODEL_PATH = "outputs/BINN_v1/model.pt"
+LOG_PATH = "outputs/BINN_v1/training_log.csv"
 
 HIDDEN_SIZE = 64
 LEARNING_RATE = 1e-3

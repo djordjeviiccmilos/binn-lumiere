@@ -1,0 +1,4 @@
+alpha        | p = 0.913167 | nije znacajno
+K            | p = 0.000003 | znacajno
+beta_start   | p = 0.897460 | nije znacajno
+beta_end     | p = 0.005679 | znacajno
